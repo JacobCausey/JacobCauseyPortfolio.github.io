@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[LinkedIn](https://www.linkedin.com/in/jacobwcausey/)).
+[LinkedIn](https://www.linkedin.com/in/jacobwcausey/)
 
 There should be whitespace between paragraphs.
 
