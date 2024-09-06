@@ -95,7 +95,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Graduation]((https://github.com/JacobCausey/JacobCauseyPortfolio.github.io/blob/main/IMG_0707.jpeg))
 
 ### Large image
 
