@@ -14,7 +14,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Dedicated and detail-oriented IT professional with a Bachelor’s degree in Computer Information Technology and hands-on experience in network engineering and risk analysis. Proficient in AWS, Azure, and various network systems. Adept at troubleshooting, implementing security best practices, and collaborating with cross-functional teams to deliver technology solutions.
 
+### Certifications
 
+<dl>
+<dt>CompTIA</dt>
+<dd>Security+</dd>
+<dt>AWS</dt>
+<dd>n/a</dd>
+<dt>Google</dt>
+<dd>Google CyberSecurity</dd>
+<dt>ISC2</dt>
+<dd>n/a</dd>
+</dl>
 ## Header 2
 
 > This is a blockquote following a header.
@@ -95,25 +106,11 @@ end
 
 ### Small image
 
-![Graduation]((https://github.com/JacobCausey/JacobCauseyPortfolio.github.io/blob/main/IMG_0707.jpeg))
+![Graduation](./IMG_0707.jpeg)
 
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
