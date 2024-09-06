@@ -10,9 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Certifications
+# Professional Summary
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Dedicated and detail-oriented IT professional with a Bachelor’s degree in Computer Information Technology and hands-on experience in network engineering and risk analysis. Proficient in AWS, Azure, and various network systems. Adept at troubleshooting, implementing security best practices, and collaborating with cross-functional teams to deliver technology solutions.
+
 
 ## Header 2
 
