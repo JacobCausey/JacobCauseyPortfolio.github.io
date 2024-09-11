@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h1>Jacob Causey Portfolio</h1>
 [LinkedIn](https://www.linkedin.com/in/jacobwcausey/)
 # Professional Summary
 
